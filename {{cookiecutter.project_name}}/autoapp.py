@@ -1,3 +1,3 @@
-from {{cookiecutter.app_name}}.app import create_app
+from {{cookiecutter.project_slug}}.app import create_app
 
 app = create_app()
